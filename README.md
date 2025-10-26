@@ -54,8 +54,8 @@ Check our contributing guide before submitting PRs.
 ---
 
 ### 📬 Contact & Social
-- Email: futurecode.team@techmail.com
-- Instagram: @futurecodetech
+- Email: futurecode77@gmail.com
+- Instagram: @fcode_7  https://www.instagram.com/fcode_7?igsh=MWZneGZraDdkODJ4bw==
 - LinkedIn: Future Code Technology (soon)
 
 ---
