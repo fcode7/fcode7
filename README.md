@@ -17,21 +17,19 @@ We design, develop, and deploy applications that empower the future of technolog
 ### 💡 What We Do
 - Full-Stack Web Development
 - Mobile App Development
-- Software Engineering & System Design
+- Software Engineering
 - Problem Solving & Algorithms
-- Cybersecurity Awareness
-- Tech Community Contributions
-
+  
 ---
 
 ### 🛠 Tech Stack
 
 | Category | Technologies |
 |---------|--------------|
-| Languages | Python, C#, C++, C, JavaScript |
+| Languages | Python, C#, C++, JavaScript |
 | Web | HTML, CSS, JS |
 | Mobile | Flutter |
-| Tools & Platforms | GitHub, Linux, VS Code, Docker (soon) |
+| Tools & Platforms | GitHub, Linux, VS Code, Visual Studio, |
 | Interests | AI, Cloud, Embedded Systems |
 
 ---
